@@ -1,0 +1,30 @@
+.wrapper {
+  width: 100%;
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+div.header {
+  background-image: url('../img/banner.jpg');
+  width: 100%;
+  height: 170px;
+  color: white;
+  text-align: center;
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+h1.htext {
+  padding: 50px 0px;
+  margin: 0px;
+  font-size: 45px;
+  font-family: sans-serif;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.sidebar {
+  float: left;
+  background-color: #ccc;
+  width: 30%;
+}
