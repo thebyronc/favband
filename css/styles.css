@@ -26,7 +26,10 @@ body {
 .sidebar {
   float: left;
   background-color: #ccc;
-  width: 400px;
+  width: 358px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #000;
 }
 
 .main {
@@ -51,4 +54,5 @@ body {
 
 img {
   max-width: 266px;
+  padding: 1px;
 }
