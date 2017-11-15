@@ -1,6 +1,6 @@
 .wrapper {
-  width: 100%;
-  margin: 0px 0px;
+  width: 1200px;
+  margin: auto;
   padding: 0px 0px;
 }
 div.header {
@@ -26,5 +26,29 @@ body {
 .sidebar {
   float: left;
   background-color: #ccc;
-  width: 30%;
+  width: 400px;
+}
+
+.main {
+  width: 800px;
+  float: right;
+}
+
+.one {
+  width: 33%;
+  float: left;
+}
+
+.two {
+  width: 33%;
+  float: left;
+}
+
+.three {
+  width: 33%;
+  float: left;
+}
+
+img {
+  max-width: 266px;
 }
